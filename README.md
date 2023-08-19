@@ -29,27 +29,3 @@ Hi, My name is Kavan Pancholi, and I am a Laravel + Vue enthusiastic developer w
 * Proven track record of thorough documentation for future maintenance and upgrades
 * Experience with Docker, Kubernetes, and Helm Charts for deployment using Google Cloud Platform
 * Contribution to various open-source projects such as Laravel Wink and Monica (Personal CRM)
-
-<picture>
-<source 
-  srcset="https://github-readme-stats-eo901zilr-kavanpancholi.vercel.app/api?username=kavanpancholi&hide_border=true&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats-eo901zilr-kavanpancholi.vercel.app/api?username=kavanpancholi&hide_border=true&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats-eo901zilr-kavanpancholi.vercel.app/api?username=kavanpancholi&hide_border=true&show_icons=true" />
-</picture>
-
-<picture>
-<source 
-  srcset="https://github-readme-stats-eo901zilr-kavanpancholi.vercel.app/api/top-langs/?username=kavanpancholi&layout=compact&hide_border=true&langs_count=8&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats-eo901zilr-kavanpancholi.vercel.app/api/top-langs/?username=kavanpancholi&layout=compact&hide_border=true&langs_count=8&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats-eo901zilr-kavanpancholi.vercel.app/api/top-langs/?username=kavanpancholi&layout=compact&hide_border=true&langs_count=8&show_icons=true" />
-</picture>
