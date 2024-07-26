@@ -16,10 +16,10 @@ Hi, My name is Kavan Pancholi, and I am a Laravel + Vue enthusiastic developer w
 [![Github](https://img.shields.io/badge/-kavanpancholi-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/kavanpancholi)
 
 ### 💼  My Skills and Experience:
-* 10+ years of experience in PHP backend development and OOP
-* 8+ years of experience with Laravel
-* 4+ years of experience with Vue.js/Vuex
-* 3+ years of experience with Inertia
+* 11+ years of experience in PHP backend development and OOP
+* 9+ years of experience with Laravel
+* 6+ years of experience with Vue.js/Vuex
+* 4+ years of experience with Inertia
 * Experience building modern websites from scratch using TailwindCSS
 * Strong skills in frontend and backend design, development, and testing of web applications
 * Passion for "clean code" and adherence to quality standards such as SOLID principles and design patterns
